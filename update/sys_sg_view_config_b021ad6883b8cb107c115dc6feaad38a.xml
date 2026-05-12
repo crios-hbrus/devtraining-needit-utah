@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <creation_method/>
+        <description>Card para probar si puedo editar o que pedo</description>
+        <name>CardPrueba</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-08 16:20:45</sys_created_on>
+        <sys_id>b021ad6883b8cb107c115dc6feaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CardPrueba</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_view_config_b021ad6883b8cb107c115dc6feaad38a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-08 16:20:45</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <template display_value="Genius Result Person v2">58c3f2cc772511109033bfeacf5a99fe</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=b021ad6883b8cb107c115dc6feaad38a"/>
+</record_update>
